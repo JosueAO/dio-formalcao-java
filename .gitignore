@@ -1,0 +1,39 @@
+# Arquivos compilados
+*.class
+
+# Diretório de saída
+/target/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Arquivos específicos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração do Visual Studio Code
+.vscode/
+
+# Arquivos de configuração do Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Outros arquivos e diretórios ignorados comuns
+*.swp
+*.swo
+*.war
+*.ear
+*.jar
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Arquivos gerados por ferramentas de construção
+bin/
+build/
