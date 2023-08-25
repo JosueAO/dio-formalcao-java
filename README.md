@@ -1,5 +1,3 @@
-## Em andamento...
-
 # Formação em Java na DIO - [dio.me](https://www.dio.me)
 
 ## Detalhes da formação
