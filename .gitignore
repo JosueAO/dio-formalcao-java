@@ -1,8 +1,10 @@
 # Arquivos compilados
 *.class
 
-# Diretório de saída
+# Diretórios de saída
 /target/
+/build/
+/out/
 
 # Arquivos temporários
 *.log
@@ -13,8 +15,19 @@
 .DS_Store
 Thumbs.db
 
-# Arquivos de configuração do Visual Studio Code
+# Configurações do Visual Studio Code
 .vscode/
+
+# Configurações do Eclipse
+.classpath
+.project
+.settings/
+
+# Configurações do IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
 
 # Arquivos de configuração do Maven
 pom.xml.tag
@@ -36,4 +49,4 @@ release.properties
 
 # Arquivos gerados por ferramentas de construção
 bin/
-build/
+/.metadata/
